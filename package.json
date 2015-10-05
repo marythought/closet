@@ -1,0 +1,23 @@
+{
+  "name": "closet",
+  "version": "1.0.0",
+  "description": "a closet",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marythought/closet.git"
+  },
+  "author": "Mary Dickson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marythought/closet/issues"
+  },
+  "homepage": "https://github.com/marythought/closet#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
